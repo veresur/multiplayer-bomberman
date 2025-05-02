@@ -5,4 +5,4 @@
 
 ## Project Overview
 
-A multiplayer Bomberman–style game implemented in Java. Detailed instructions were provided in **bomberman.pdf**.
+This project is a multiplayer Bomberman-style game developed in Java. It was created as part of the Software Technology course at ELTE IK. All development followed the specifications and requirements outlined in the provided documentation **bomberman.pdf**.
